@@ -1,4 +1,24 @@
-
+ .fa-facebook {
+     font-size: 10px;
+     color: blue;
+ }
+ a {
+     text-decoration: none;
+     color: grey;
+ }
+ a:visited {
+     color: blue;
+ }
+ a:active {
+     color: red;
+ }
+ a:hover {
+     color: green;
+     font-size: 15px;
+ }
+ a {
+     cursor: wait;
+ }
 
 
 
