@@ -1,5 +1,36 @@
-
-
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box {
+    width: 500px;
+    height: 500px;
+    position: relative;
+}
+.box img {
+    width: 100%;
+}
+.date {
+    background-color: rgba(24, 148, 160, 0.8);
+    display: inline;
+    padding: 7px 20px 7px 20px;
+    position: absolute;
+    bottom: 231px;
+    left: 0;
+}
+.date span {
+    color: white;
+}
+.description {
+    background-color: black;
+    padding: 0 20px;
+    position: absolute;
+    bottom: 188px;
+}
+.description h3 {
+    color: white;
+}
 
 
 
