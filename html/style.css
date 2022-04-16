@@ -3,7 +3,23 @@
     padding: 0;
     box-sizing: border-box;
 }
-.box {
+.boxes {
+    width: 321px;
+    height: 519px;
+    border: 1px solid red;
+}
+.long-box {
+    width: 200px;
+    height: 323px;
+    border: 2px solid transparent;
+    border-radius: 4%;
+    background: blue;
+    margin: auto;
+}
+
+
+
+/* .box {
     width: 500px;
     height: 500px;
     position: relative;
@@ -30,7 +46,7 @@
 }
 .description h3 {
     color: white;
-}
+} */
 
 
 
