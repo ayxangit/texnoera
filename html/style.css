@@ -15,7 +15,24 @@
     border-radius: 4%;
     background: blue;
     margin: auto;
+     position: relative;
+    text-align: center;
 }
+.report {
+    position: absolute;
+    bottom: 129px;
+    left: 24px;
+    color: grey;
+}
+.name {
+    position: absolute;
+    bottom: 62px;
+    left: 22px;
+    text-align: justify;
+    color: white;
+    font-size: 26px;
+}
+
 
 
 
