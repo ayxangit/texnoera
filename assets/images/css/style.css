@@ -58,21 +58,22 @@ body {
     background: darkblue;
     border-radius: 4%;
     position: absolute;
-    top: 374px;
+    top: 379px;
     z-index: -1;
 }
 .same {
     border: 1px solid transparent;
     width: 58px;
     height: 25px;
-   color: white;
+    color: white;
+    margin-left: 37px;
+    margin-top: 17px;
+    position: relative;
+    top: 35px;
 }
-.same p {
-    margin-top: 62px;
-    margin-left: 33px;
-}
+
 .same p:hover{
-    color: grey;
+    color: blue;
 }
 
 .purple-box {
