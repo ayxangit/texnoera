@@ -3,10 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
-body {
-    position: relative;
-}
-.box {
+/* .box {
     width: 200px;
     height: 400px;
     background: blue;
@@ -186,7 +183,84 @@ body {
     font-size: 17px;
     
     
+} */
+
+/* onepoint */
+.onepoint {
+    width: 360px;
+    height: 530px;
+    box-shadow: 0 10px 20px rgb(0 0 0 / 19%), 0 6px 6px rgb(0 0 0 / 23%);
+    border-radius: 10px;
+    margin: auto;
+
+}
+.onepoint h3 {
+    width: 300px;
+    height: 36px;
+    text-align: center;
+    color: rgb(15,25,35);
+    font-family: Cab, sans-serif;
+    font-size: 30px;
+    font-weight: normal;
+    padding: 40px 0 0 54px;
+}
+.form {
+    width: 300px;
+    height: 43px;
+    padding: 40px 0 0 0;
+    position: relative;
+    transition: 0.2s;
+}
+.form input {
+    width: 315px;
+    height: 30px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    margin-top: 25px;
+    margin-left: 20px;
+    outline: none;
+    display: block;
+}
+.form input:hover {
+    border-color: orange;
+    
+}
+.form label {
+   position: relative;
+   top: 27px;
+   left: 19px;
+   cursor: text;
+   color: #777;
+   font-size: 16px;
+   
+}
+.form label:hover {
+    color: orange;
+    font-size: 12px;
+}
+.button {
+    width: 160px;
+    height: 58px;
+    border: 1px solid transparent ;
+    background: rgb(250,200,25);
+    padding: 15px 30px;
+    margin:auto;
+    display: block;
+    text-align: center;
+    border-radius: 50px;
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+    position: relative;
+    top: 15px;
+    left: 22px;
+    transition: 0.4s;
+}
+.button:hover {
+    background-color: rgb(162, 129, 7);
 }
 
+    
 
 
