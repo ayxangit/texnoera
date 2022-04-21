@@ -186,6 +186,12 @@
 } */
 
 /* onepoint */
+body {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 100vh;
+}
  .onepoint {
     width: 360px;
     height: 530px;
