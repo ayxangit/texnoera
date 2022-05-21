@@ -2,8 +2,8 @@
     "version": 3,
     "mappings": "",
     "sources": [
-        "main.sass"
+        "rsponsive.scss"
     ],
     "names": [],
-    "file": "main.css"
+    "file": "rsponsive.css"
 }
